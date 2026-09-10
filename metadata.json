@@ -1,0 +1,6 @@
+{
+  "name": "Pelos Barbershop",
+  "description": "Pelos Barbershop in Los Angeles, California. Luxury modern grooming, precision haircuts, beard trims, and signature styling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
